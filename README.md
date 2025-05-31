@@ -1,6 +1,6 @@
 # Aplikasi Al-Qur'an 📖✨
 
-Ini adalah proyek aplikasi mobile sederhana untuk membaca Al-Qur'an menggunakan **React Native** dan **Expo go**. Aplikasi ini menampilkan daftar surah dan detail ayat dengan antarmuka yang ringan dan mudah digunakan.
+Ini adalah proyek aplikasi mobile sederhana untuk membaca Al-Qur'an menggunakan **React Native** dan **Expo Go**. Aplikasi ini menampilkan daftar surah dan detail ayat dengan antarmuka yang ringan dan mudah digunakan.
 
 ## 📱 Fitur Utama
 - Daftar seluruh surah dalam Al-Qur'an
@@ -12,4 +12,4 @@ Ini adalah proyek aplikasi mobile sederhana untuk membaca Al-Qur'an menggunakan 
 1. Pastikan kamu sudah menginstal [Node.js](https://nodejs.org/) dan [Expo CLI](https://docs.expo.dev/get-started/installation/#expo-cli)
 2. Clone repositori ini:
    ```bash
-   git clone https://github.com/azzahranuraulia/aplikasi-alquran.git
+   git clone : https://github.com/azzahranuraulia/aplikasi-alquran.git
