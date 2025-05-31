@@ -1,6 +1,6 @@
 # Aplikasi Al-Qur'an 📖✨
 
-Ini adalah proyek aplikasi mobile sederhana untuk membaca Al-Qur'an menggunakan **React Native** dan **Expo**. Aplikasi ini menampilkan daftar surah dan detail ayat dengan antarmuka yang ringan dan mudah digunakan.
+Ini adalah proyek aplikasi mobile sederhana untuk membaca Al-Qur'an menggunakan **React Native** dan **Expo go**. Aplikasi ini menampilkan daftar surah dan detail ayat dengan antarmuka yang ringan dan mudah digunakan.
 
 ## 📱 Fitur Utama
 - Daftar seluruh surah dalam Al-Qur'an
